@@ -45,4 +45,6 @@ a {
 .block{
 	display: inline-block;
 }
-
+.bckg{
+	background-color: #fff;
+}
